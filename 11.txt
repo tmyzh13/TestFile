@@ -1,11 +1,7 @@
 add test1
 
-update1
 客户端上修改
 pc修改
 
-update2
 电脑上修改
 git网站上修改
-
-Update3
